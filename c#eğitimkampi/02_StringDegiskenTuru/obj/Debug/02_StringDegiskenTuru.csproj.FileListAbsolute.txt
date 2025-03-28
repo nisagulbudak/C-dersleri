@@ -1,0 +1,7 @@
+C:\Users\nsxbd\source\repos\c#eğitimkampi\02_StringDegiskenTuru\bin\Debug\02_StringDegiskenTuru.exe.config
+C:\Users\nsxbd\source\repos\c#eğitimkampi\02_StringDegiskenTuru\bin\Debug\02_StringDegiskenTuru.exe
+C:\Users\nsxbd\source\repos\c#eğitimkampi\02_StringDegiskenTuru\bin\Debug\02_StringDegiskenTuru.pdb
+C:\Users\nsxbd\source\repos\c#eğitimkampi\02_StringDegiskenTuru\obj\Debug\02_StringDegiskenTuru.csproj.AssemblyReference.cache
+C:\Users\nsxbd\source\repos\c#eğitimkampi\02_StringDegiskenTuru\obj\Debug\02_StringDegiskenTuru.csproj.CoreCompileInputs.cache
+C:\Users\nsxbd\source\repos\c#eğitimkampi\02_StringDegiskenTuru\obj\Debug\02_StringDegiskenTuru.exe
+C:\Users\nsxbd\source\repos\c#eğitimkampi\02_StringDegiskenTuru\obj\Debug\02_StringDegiskenTuru.pdb

@@ -1,0 +1,7 @@
+C:\Users\nsxbd\source\repos\c#eğitimkampi\01_YazdirmaKomutlari\bin\Debug\01_YazdirmaKomutlari.exe.config
+C:\Users\nsxbd\source\repos\c#eğitimkampi\01_YazdirmaKomutlari\bin\Debug\01_YazdirmaKomutlari.exe
+C:\Users\nsxbd\source\repos\c#eğitimkampi\01_YazdirmaKomutlari\bin\Debug\01_YazdirmaKomutlari.pdb
+C:\Users\nsxbd\source\repos\c#eğitimkampi\01_YazdirmaKomutlari\obj\Debug\01_YazdirmaKomutlari.csproj.AssemblyReference.cache
+C:\Users\nsxbd\source\repos\c#eğitimkampi\01_YazdirmaKomutlari\obj\Debug\01_YazdirmaKomutlari.csproj.CoreCompileInputs.cache
+C:\Users\nsxbd\source\repos\c#eğitimkampi\01_YazdirmaKomutlari\obj\Debug\01_YazdirmaKomutlari.exe
+C:\Users\nsxbd\source\repos\c#eğitimkampi\01_YazdirmaKomutlari\obj\Debug\01_YazdirmaKomutlari.pdb
