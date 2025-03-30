@@ -1,7 +1,0 @@
-C:\Users\nsxbd\source\repos\c#eğitimkampi\06_KlavyedenVeriGirişleri\bin\Debug\06_KlavyedenVeriGirişleri.exe.config
-C:\Users\nsxbd\source\repos\c#eğitimkampi\06_KlavyedenVeriGirişleri\bin\Debug\06_KlavyedenVeriGirişleri.exe
-C:\Users\nsxbd\source\repos\c#eğitimkampi\06_KlavyedenVeriGirişleri\bin\Debug\06_KlavyedenVeriGirişleri.pdb
-C:\Users\nsxbd\source\repos\c#eğitimkampi\06_KlavyedenVeriGirişleri\obj\Debug\06_KlavyedenVeriGirişleri.csproj.AssemblyReference.cache
-C:\Users\nsxbd\source\repos\c#eğitimkampi\06_KlavyedenVeriGirişleri\obj\Debug\06_KlavyedenVeriGirişleri.csproj.CoreCompileInputs.cache
-C:\Users\nsxbd\source\repos\c#eğitimkampi\06_KlavyedenVeriGirişleri\obj\Debug\06_KlavyedenVeriGirişleri.exe
-C:\Users\nsxbd\source\repos\c#eğitimkampi\06_KlavyedenVeriGirişleri\obj\Debug\06_KlavyedenVeriGirişleri.pdb
