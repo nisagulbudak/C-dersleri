@@ -1,7 +1,0 @@
-C:\Users\nsxbd\source\repos\c#eğitimkampi\04_DoubleDegiskenTuru\bin\Debug\04_DoubleDegiskenTuru.exe.config
-C:\Users\nsxbd\source\repos\c#eğitimkampi\04_DoubleDegiskenTuru\bin\Debug\04_DoubleDegiskenTuru.exe
-C:\Users\nsxbd\source\repos\c#eğitimkampi\04_DoubleDegiskenTuru\bin\Debug\04_DoubleDegiskenTuru.pdb
-C:\Users\nsxbd\source\repos\c#eğitimkampi\04_DoubleDegiskenTuru\obj\Debug\04_DoubleDegiskenTuru.csproj.AssemblyReference.cache
-C:\Users\nsxbd\source\repos\c#eğitimkampi\04_DoubleDegiskenTuru\obj\Debug\04_DoubleDegiskenTuru.csproj.CoreCompileInputs.cache
-C:\Users\nsxbd\source\repos\c#eğitimkampi\04_DoubleDegiskenTuru\obj\Debug\04_DoubleDegiskenTuru.exe
-C:\Users\nsxbd\source\repos\c#eğitimkampi\04_DoubleDegiskenTuru\obj\Debug\04_DoubleDegiskenTuru.pdb
