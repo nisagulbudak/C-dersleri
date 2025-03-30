@@ -1,7 +1,0 @@
-C:\Users\nsxbd\source\repos\c#eğitimkampi\07_KlavyedenVeriGirisleriIntDegiskeni\bin\Debug\07_KlavyedenVeriGirisleriIntDegiskeni.exe.config
-C:\Users\nsxbd\source\repos\c#eğitimkampi\07_KlavyedenVeriGirisleriIntDegiskeni\bin\Debug\07_KlavyedenVeriGirisleriIntDegiskeni.exe
-C:\Users\nsxbd\source\repos\c#eğitimkampi\07_KlavyedenVeriGirisleriIntDegiskeni\bin\Debug\07_KlavyedenVeriGirisleriIntDegiskeni.pdb
-C:\Users\nsxbd\source\repos\c#eğitimkampi\07_KlavyedenVeriGirisleriIntDegiskeni\obj\Debug\07_KlavyedenTamSayiGirisleriVeDonusumlerIntDegiskeni.csproj.AssemblyReference.cache
-C:\Users\nsxbd\source\repos\c#eğitimkampi\07_KlavyedenVeriGirisleriIntDegiskeni\obj\Debug\07_KlavyedenTamSayiGirisleriVeDonusumlerIntDegiskeni.csproj.CoreCompileInputs.cache
-C:\Users\nsxbd\source\repos\c#eğitimkampi\07_KlavyedenVeriGirisleriIntDegiskeni\obj\Debug\07_KlavyedenVeriGirisleriIntDegiskeni.exe
-C:\Users\nsxbd\source\repos\c#eğitimkampi\07_KlavyedenVeriGirisleriIntDegiskeni\obj\Debug\07_KlavyedenVeriGirisleriIntDegiskeni.pdb
