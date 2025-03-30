@@ -1,0 +1,7 @@
+C:\Users\nsxbd\source\repos\c#eğitimkampi\09_KlavyedenKarakterGirisleriCharDegiskeni\bin\Debug\09_KlavyedenKarakterGirisleriCharDegiskeni.exe.config
+C:\Users\nsxbd\source\repos\c#eğitimkampi\09_KlavyedenKarakterGirisleriCharDegiskeni\bin\Debug\09_KlavyedenKarakterGirisleriCharDegiskeni.exe
+C:\Users\nsxbd\source\repos\c#eğitimkampi\09_KlavyedenKarakterGirisleriCharDegiskeni\bin\Debug\09_KlavyedenKarakterGirisleriCharDegiskeni.pdb
+C:\Users\nsxbd\source\repos\c#eğitimkampi\09_KlavyedenKarakterGirisleriCharDegiskeni\obj\Debug\09_KlavyedenKarakterGirisleriCharDegiskeni.csproj.AssemblyReference.cache
+C:\Users\nsxbd\source\repos\c#eğitimkampi\09_KlavyedenKarakterGirisleriCharDegiskeni\obj\Debug\09_KlavyedenKarakterGirisleriCharDegiskeni.csproj.CoreCompileInputs.cache
+C:\Users\nsxbd\source\repos\c#eğitimkampi\09_KlavyedenKarakterGirisleriCharDegiskeni\obj\Debug\09_KlavyedenKarakterGirisleriCharDegiskeni.exe
+C:\Users\nsxbd\source\repos\c#eğitimkampi\09_KlavyedenKarakterGirisleriCharDegiskeni\obj\Debug\09_KlavyedenKarakterGirisleriCharDegiskeni.pdb

@@ -1,0 +1,7 @@
+C:\Users\nsxbd\source\repos\c#eğitimkampi\06_KlavyedenVeriGirisleriStringDegiskenii\bin\Debug\06_KlavyedenVeriGirisleriStringDegiskenii.exe.config
+C:\Users\nsxbd\source\repos\c#eğitimkampi\06_KlavyedenVeriGirisleriStringDegiskenii\bin\Debug\06_KlavyedenVeriGirisleriStringDegiskenii.exe
+C:\Users\nsxbd\source\repos\c#eğitimkampi\06_KlavyedenVeriGirisleriStringDegiskenii\bin\Debug\06_KlavyedenVeriGirisleriStringDegiskenii.pdb
+C:\Users\nsxbd\source\repos\c#eğitimkampi\06_KlavyedenVeriGirisleriStringDegiskenii\obj\Debug\06_KlavyedenVeriGirisleriStringDegiskenii.csproj.AssemblyReference.cache
+C:\Users\nsxbd\source\repos\c#eğitimkampi\06_KlavyedenVeriGirisleriStringDegiskenii\obj\Debug\06_KlavyedenVeriGirisleriStringDegiskenii.csproj.CoreCompileInputs.cache
+C:\Users\nsxbd\source\repos\c#eğitimkampi\06_KlavyedenVeriGirisleriStringDegiskenii\obj\Debug\06_KlavyedenVeriGirisleriStringDegiskenii.exe
+C:\Users\nsxbd\source\repos\c#eğitimkampi\06_KlavyedenVeriGirisleriStringDegiskenii\obj\Debug\06_KlavyedenVeriGirisleriStringDegiskenii.pdb
